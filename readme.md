@@ -1,7 +1,9 @@
-my plant project
+My planet project
 ---------------
 
-current work:
+Current work:
  - mars 
-Future work
+
+Future work:
+ - Venus
  - Jupiter
