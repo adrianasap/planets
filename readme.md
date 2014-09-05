@@ -3,7 +3,9 @@ My planet project
 
 Current work:
  - mars 
+<<<<<<< HEAD
 
 Future work:
- - Venus
+ - Saturn
  - Jupiter
+
